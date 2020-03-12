@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Moazzam Ali</title>
-    <link>/</link>
-    <description>Recent content on Moazzam Ali</description>
+    <title>Moazzam Khan</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Moazzam Khan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2020 21:19:50 +0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Journey</title>
+      <link>https://example.com/posts/journey/</link>
+      <pubDate>Thu, 12 Mar 2020 21:19:50 +0500</pubDate>
+      
+      <guid>https://example.com/posts/journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Working as a full time Javascript developer (React, Angular, Node) at Teamo Inc.</description>
+    </item>
+    
+    <item>
+      <title>The Journey</title>
+      <link>https://example.com/posts/the-journey/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/the-journey/</guid>
+      <description>TL;DR  Hi! I&amp;rsquo;m Moazzam, a full stack web developer working a full time job.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
